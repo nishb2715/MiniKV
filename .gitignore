@@ -1,0 +1,8 @@
+
+echo "minikv/
+__pycache__/
+*.pyc
+.env
+.minikv_env/
+.minikv 
+*.log" > .gitignore
